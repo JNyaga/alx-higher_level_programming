@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 ##  PyObject
 
 - PyObject is an object structure that you use to define object types for Python.
@@ -48,3 +52,16 @@
   > - *so hapa ``args`` ni tuple and its values should follow the type expected which in this case is "ss"  that is representing two strings,, **str and filename***
   > - **`"ss"`** is the format specifier that specifies the data type of the arguments to parse. (You can check out the [official documentation](https://docs.python.org/3/c-api/arg.html) for a complete reference.)
   > - **``&str`` and ``&filename``** are pointers to local variables to which the parsed values will be assigned.
+
+
+
+
+
+
+
+
+
+
+
+
+
